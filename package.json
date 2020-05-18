@@ -1,0 +1,31 @@
+{
+  "name": "fed-e-task",
+  "version": "1.0.0",
+  "description": "Lagou learning practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
+  },
+  "author": "gang.a.chen",
+  "license": "ISC",
+  "dependencies": {
+    "git-cz": "^4.5.0",
+    "lint-staged": "^10.2.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "**/**/*.{js,vue,html,md}": [
+      "eslint"
+    ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

@@ -58,9 +58,13 @@ this.someObject = Object.assign({}, this.someObject, { a: 1, b: 2 })
 
 ### 1、模拟 VueRouter 的 hash 模式的实现，实现思路和 History 模式类似，把 URL 中的 # 后面的内容作为路由的地址，可以通过 hashchange 事件监听路由地址的变化。
  
+### Code: [01-hash-router](https://github.com/jason-answer/fed-e-task/tree/master/fed-e-task-03-01/code/01-hash-router)
 
 ### 2、在模拟 Vue.js 响应式源码的基础上实现 v-html 指令，以及 v-on 指令。
  
+### Code: [02-vue-directive](https://github.com/jason-answer/fed-e-task/tree/master/fed-e-task-03-01/code/02-vue-directive)
 
 ### 3、参考 Snabbdom 提供的电影列表的示例，利用Snabbdom 实现类似的效果，如图：
 ![Movie List](https://s0.lgstatic.com/i/image/M00/26/F2/Ciqc1F7zUZ-AWP5NAAN0Z_t_hDY449.png "Movie List")
+
+### Code: [03-movie-list](https://github.com/jason-answer/fed-e-task/tree/master/fed-e-task-03-01/code/03-movie-list)

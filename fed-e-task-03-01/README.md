@@ -65,6 +65,6 @@ this.someObject = Object.assign({}, this.someObject, { a: 1, b: 2 })
 ### Code: [02-vue-directive](https://github.com/jason-answer/fed-e-task/tree/master/fed-e-task-03-01/code/02-vue-directive)
 
 ### 3、参考 Snabbdom 提供的电影列表的示例，利用Snabbdom 实现类似的效果，如图：
-![Movie List](https://s0.lgstatic.com/i/image/M00/26/F2/Ciqc1F7zUZ-AWP5NAAN0Z_t_hDY449.png "Movie List")
+![Movie List](./images/movies-list.png)
 
 ### Code: [03-movie-list](https://github.com/jason-answer/fed-e-task/tree/master/fed-e-task-03-01/code/03-movie-list)

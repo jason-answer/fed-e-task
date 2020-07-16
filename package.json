@@ -12,7 +12,7 @@
   "dependencies": {
     "git-cz": "^4.5.0",
     "lint-staged": "^10.2.3",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "husky": {
     "hooks": {

@@ -14,6 +14,9 @@
 + ### [手写 Vue Router、手写响应式实现、虚拟 DOM 和 Diff 算法 ---- fed-e-task-03-01](https://github.com/jason-answer/fed-e-task/tree/master/fed-e-task-03-01) 
 
 + ### [Vue.js 源码分析 (响应式、虚拟 DOM、模板编译和组件化) ](https://github.com/jason-answer/fed-e-task/tree/master/fed-e-task-03-02) 
+  
++  ### [Vuex 数据流管理及Vue.js 服务端渲染（SSR ](https://github.com/jason-answer/fed-e-task/tree/master/fed-e-task-03-03) 
+
 
 ## Notes
 
